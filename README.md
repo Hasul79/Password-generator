@@ -1,4 +1,15 @@
-# Password-generator
+<h1 align="center">Password-generator</h1>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/Hasul79/Password-generator/assets/95657084/0df1f6b2-8947-4282-bfc4-cfd57b583028">
+</div>
+
+
+<br/>
+
+
 
 ![password-generator](https://github.com/Hasul79/Password-generator/assets/95657084/0df1f6b2-8947-4282-bfc4-cfd57b583028)
 
