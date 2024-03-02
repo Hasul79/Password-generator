@@ -9,9 +9,20 @@
 <nr/>
 
   <p>&#10003; Буквы латинского алфавита:</p>
-  <li>&#10003; Item 2</li>
-  <li>&#10003; Item 3</li>
+  <ul>
+    <li>Верхний регистр (A-Z): ABCDEFGHIJKLMNOPQRSTUVWXYZ</li>
+    <li>Нижний регистр (a-z): abcdefghijklmnopqrstuvwxyz</li>
+  </ul>
+  <p>&#10003; Цифры:</p>
+   <ul>
+    <li>0123456789</li>
+    </ul>
+  <p>&#10003; Знаки пунктуации:</p>
+  <ul>
+    <li>!"#$%&'()*+,-./:;<=>?@[\]^_{|}~</li>
+  </ul>
 
+<br/>
 
 ![Screenshot 2024-03-02 234504](https://github.com/Hasul79/Password-generator/assets/95657084/b1557b3a-e22b-4b95-badd-04a833b18350)
 
