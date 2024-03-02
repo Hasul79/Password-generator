@@ -9,11 +9,7 @@
 
 <br/>
 
-
-
-![password-generator](https://github.com/Hasul79/Password-generator/assets/95657084/0df1f6b2-8947-4282-bfc4-cfd57b583028)
-
-<h2>Этот скрипт на Python создает случайные пароли заданной длины, используя библиотеку random и строки ASCII-символов.</h2>
+<h1>Этот скрипт на Python создает случайные пароли заданной длины, используя библиотеку random и строки ASCII-символов.</h1>
 
 <h3>=== ASCII (American Standard Code for Information Interchange) ===</h3>
 <p> это стандартный набор символов, представленных числовыми кодами. ASCII-символы включают в себя</p>
