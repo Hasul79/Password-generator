@@ -7,7 +7,7 @@
 <h3>ASCII (American Standard Code for Information Interchange) </h3>
 <p> это стандартный набор символов, представленных числовыми кодами. ASCII-символы включают в себя</p>
 <nr/>
-<ul list-style-type: "&#10003;";>
+<ul list-style-type: "&#10003;">
   
   <li>Буквы латинского алфавита:</li>
   
