@@ -4,6 +4,15 @@
 
 <h2>Этот скрипт на Python создает случайные пароли заданной длины, используя библиотеку random и строки ASCII-символов.</h2>
 
+<h3>ASCII (American Standard Code for Information Interchange) </h3>
+<p> это стандартный набор символов, представленных числовыми кодами. ASCII-символы включают в себя</p>
+<nr/>
+<ul list-style-type: "✓";>
+  
+  <li>Буквы латинского алфавита:</li>
+  
+</ul>
+
 ![Screenshot 2024-03-02 234504](https://github.com/Hasul79/Password-generator/assets/95657084/b1557b3a-e22b-4b95-badd-04a833b18350)
 
 <br/>
