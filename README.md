@@ -4,10 +4,11 @@
 
 <h2>Этот скрипт на Python создает случайные пароли заданной длины, используя библиотеку random и строки ASCII-символов.</h2>
 
+![Screenshot 2024-03-02 234504](https://github.com/Hasul79/Password-generator/assets/95657084/b1557b3a-e22b-4b95-badd-04a833b18350)
+
 <br/>
 
 <ol>
-
 
   <li>import random и import string:</li>
   
@@ -16,11 +17,13 @@
 <ul>
   
   <li>random - библиотека Python для работы с случайными числами.</li>
+  
   <li>string - модуль Python, предоставляющий набор стандартных строковых констант.</li>
   
 </ul>
+<br/>
 
-<li>def generate_password(length):</li>
+<li>def generate_password(length)`</li>
 
 <br/>
 
@@ -30,24 +33,25 @@
 
 <br/>
 
-<li>random.choice(string.ascii_letters + string.digits + string.punctuation)</li>
+<li>random.choice(string.ascii_letters + string.digits + string.punctuation)`</li>
 
+<br/>
 <ul>
   <li>Генерация случайного символа, выбранного из строк string.ascii_letters (буквы ASCII), string.digits (цифры) и string.punctuation (специальные символы).</li>
 </ul>
 
 <br/>
 
-<li>for _ in range(length):</li>
-
+<li>for _ in range(length)`</li>
+<br/>
 <ul>
   <li>Цикл, в котором генерируется каждый символ пароля указанной длины.</li>
 </ul>
 
 <br/>
 
-<li>return ''.join(...)</li>
-
+<li>return ''.join(...)`</li>
+<br/>
 <ul>
   <li>Объединение сгенерированных символов в строку и возврат этой строки.</li>
 </ul>
@@ -55,8 +59,8 @@
 <br/>
 
 
-<li>password_length = 12</li>
-
+<li>password_length = 12`</li>
+<br/>
 <ul>
   <li>Установка переменной password_length в значение 12 (может быть изменено на другую длину по вашему усмотрению).</li>
 </ul>
@@ -77,10 +81,10 @@
 
 # Таким образом, при запуске скрипта он создаст и выведет случайный пароль указанной длины, используя буквы, цифры и специальные символы.
 
-![Screenshot 2024-02-29 195108](https://github.com/Hasul79/Password-generator/assets/95657084/c2ae2884-8704-466d-b224-0d81727867e6)
+
+![Screenshot 2024-03-02 230621](https://github.com/Hasul79/Password-generator/assets/95657084/be11bdfb-02ee-4981-bcf8-db23b3e6ddc4)
 
 
 
-![Screenshot 2024-03-02 234504](https://github.com/Hasul79/Password-generator/assets/95657084/b1557b3a-e22b-4b95-badd-04a833b18350)
 
 # Author: Hasmik Minasyan 02.03.2024
