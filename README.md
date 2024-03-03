@@ -10,8 +10,8 @@
 <br/>
 
 <h1>Этот скрипт на Python создает случайные пароли заданной длины, используя библиотеку random и строки ASCII-символов.</h1>
-
-<h3>=== ASCII (American Standard Code for Information Interchange) ===</h3>
+<hr/>
+<h3 align="center">=== ASCII (American Standard Code for Information Interchange) ===</h3>
 <p> это стандартный набор символов, представленных числовыми кодами. ASCII-символы включают в себя</p>
 <nr/>
   <p>&#10003; Буквы латинского алфавита:</p>
